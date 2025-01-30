@@ -1,5 +1,5 @@
 # Genome & Transcriptome Assembly and Annotation
-This repo contains all the scripts related to the UNIBE course : **473637-HS2024-0: Genome and Transcriptome Assembly [AS 2024]** and the UNIFR course : **Organization and annotation of eukaryote genomes (UE-SBL.30004) [AS 2024]**
+This repo contains all the scripts and figures related to the UNIBE course : **473637-HS2024-0: Genome and Transcriptome Assembly [AS 2024]** and the UNIFR course : **Organization and annotation of eukaryote genomes (UE-SBL.30004) [AS 2024]**
 
 - Path on IBU cluster : **/data/users/rzahri/assembly_course** and **/data/users/rzahri/annotation_course**
 - Genome accession : Stw-0
